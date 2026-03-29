@@ -107,10 +107,19 @@ def create_app() -> FastAPI:
             system_prompt = build_clinician_prompt()
 
         async def event_stream():
+            messages_to_send = session.messages
+            if not messages_to_send:
+                # Initial patient session — prompt the AI clinician to begin
+                messages_to_send = [{"role": "user", "content": "Hello, doctor."}]
+
             full_response = ""
-            async for token in stream_chat(session.messages, system_prompt):
-                full_response += token
-                yield f"data: {json.dumps({'token': token})}\n\n"
+            try:
+                async for token in stream_chat(messages_to_send, system_prompt):
+                    full_response += token
+                    yield f"data: {json.dumps({'token': token})}\n\n"
+            except Exception as e:
+                yield f"data: {json.dumps({'error': str(e)})}\n\n"
+                return
 
             session.add_message("assistant", full_response)
 

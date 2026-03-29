@@ -2,7 +2,11 @@
   "title": "Behavioral Neurology: Taxonomy of Disorders",
   "source": {
     "book": "Behavioral Neurology & Neuropsychiatry",
-    "editors": ["David B. Arciniegas", "C. Alan Anderson", "Christopher M. Filley"],
+    "editors": [
+      "David B. Arciniegas",
+      "C. Alan Anderson",
+      "Christopher M. Filley"
+    ],
     "publisher": "Cambridge University Press",
     "year": 2013
   },
@@ -10,7 +14,7 @@
     {
       "category": "Disorders of Arousal and Consciousness",
       "source_chapter": "Chapter 6: Arousal",
-      "description": "Arousal is the physiological state of wakefulness and alertness — the foundation required for all other cognitive operations. Disorders in this category involve damage to the brainstem reticular activating system, thalamus, or widespread cerebral hemispheres.",
+      "description": "Arousal is the physiological state of wakefulness and alertness \u2014 the foundation required for all other cognitive operations. Disorders in this category involve damage to the brainstem reticular activating system, thalamus, or widespread cerebral hemispheres.",
       "disorders": [
         {
           "name": "Brain Death",
@@ -20,19 +24,19 @@
         },
         {
           "name": "Coma",
-          "symptoms": "A state of neurological unconsciousness in which the patient is completely unarousable and unaware of the external environment. Eyes are typically closed, there are no sleep-wake cycles, and there is no goal-directed motor activity — though reflex movements or purposeless restlessness may occur. Can last seconds (as in concussion) to weeks.",
+          "symptoms": "A state of neurological unconsciousness in which the patient is completely unarousable and unaware of the external environment. Eyes are typically closed, there are no sleep-wake cycles, and there is no goal-directed motor activity \u2014 though reflex movements or purposeless restlessness may occur. Can last seconds (as in concussion) to weeks.",
           "brain_region": "Extensive damage to or depressed function of both cerebral hemispheres, bilateral diencephalic (thalamic) structures, or the ascending reticular activating system in the brainstem. May result from structural injury, metabolic disturbances, or pharmacologic effects.",
           "how_to_test": "Glasgow Coma Scale (GCS) assessing eye opening, verbal response, and motor response. The Coma Recovery Scale-Revised provides more detailed assessment. Prognostic markers after hypoxic-ischemic injury include: absence of corneal reflexes or pupillary light response, absent or extensor motor response at 72 hours, presence of myoclonic status epilepticus, serum neuron-specific enolase >33 mcg/L, and absent cortical somatosensory evoked potentials."
         },
         {
           "name": "Vegetative State",
           "symptoms": "Distinguished from coma by the return of spontaneous eye opening and sleep-wake cycles, but without any awareness of self or environment. The patient shows no purposeful activity, no effort or ability to communicate, no voluntary responses to stimulation, and has bowel and bladder incontinence. Autonomic functions (breathing, heart rate) are sufficient to survive with medical support.",
-          "brain_region": "Reflects recovery of some brainstem arousal mechanisms but continued failure of higher cortical networks — due to thalamic injury, disruption of white matter tracts (often diffuse axonal injury), and/or widespread cortical damage. PET studies show hypermetabolism in the brainstem reticular activating system with impaired functional connectivity to cortex.",
-          "how_to_test": "Careful serial clinical examinations over time assessing for any evidence of awareness, voluntary behavior, or communication. Bedside tools include the Coma Recovery Scale-Revised and the Coma-Near Coma Scale. Important to rule out locked-in syndrome (in which the patient is conscious but cannot move) — functional MRI and PET studies can help identify preserved cortical activation. Recovery likelihood depends on cause: unlikely after 3 months for non-traumatic causes and 12 months for traumatic brain injury."
+          "brain_region": "Reflects recovery of some brainstem arousal mechanisms but continued failure of higher cortical networks \u2014 due to thalamic injury, disruption of white matter tracts (often diffuse axonal injury), and/or widespread cortical damage. PET studies show hypermetabolism in the brainstem reticular activating system with impaired functional connectivity to cortex.",
+          "how_to_test": "Careful serial clinical examinations over time assessing for any evidence of awareness, voluntary behavior, or communication. Bedside tools include the Coma Recovery Scale-Revised and the Coma-Near Coma Scale. Important to rule out locked-in syndrome (in which the patient is conscious but cannot move) \u2014 functional MRI and PET studies can help identify preserved cortical activation. Recovery likelihood depends on cause: unlikely after 3 months for non-traumatic causes and 12 months for traumatic brain injury."
         },
         {
           "name": "Minimally Conscious State",
-          "symptoms": "Differs from the vegetative state by the presence of minimal and inconsistent evidence of conscious behavior — the patient shows some awareness of self and environment. Signs include inconsistently following commands, reaching for objects, making purposeful movements, showing appropriate emotional responses (e.g., crying at sad content), or making efforts to communicate. These behaviors are present but unreliable.",
+          "symptoms": "Differs from the vegetative state by the presence of minimal and inconsistent evidence of conscious behavior \u2014 the patient shows some awareness of self and environment. Signs include inconsistently following commands, reaching for objects, making purposeful movements, showing appropriate emotional responses (e.g., crying at sad content), or making efforts to communicate. These behaviors are present but unreliable.",
           "brain_region": "Similar to vegetative state but with slightly higher levels of cerebral metabolism and, in some patients, large-scale cortical network activation in response to auditory and tactile stimuli (shown on functional imaging). The degree of preserved thalamic-cortical connectivity appears to distinguish MCS from VS.",
           "how_to_test": "Careful and repeated observation over time, looking for any reproducible purposeful behavior, command-following, or communicative intent. Must account for confounding factors like aphasia (inability to speak) or apraxia (inability to perform movements) that could mask awareness. Emergence from MCS is defined as the consistent ability to demonstrate functional communication or functional use of objects. The Coma Recovery Scale-Revised is particularly useful for tracking progress."
         }
@@ -46,24 +50,24 @@
         {
           "name": "Primary Insomnia",
           "symptoms": "Chronic difficulty falling or staying asleep lasting at least 30 days, not explained by another medical, psychiatric, or substance-related cause, and associated with significant daytime impairment (sleepiness, fatigue, cognitive and psychomotor difficulties, worsened anxiety/depression, impaired quality of life). Evidence suggests this represents a state of physiological hyperarousal affecting the entire 24-hour cycle, not just nighttime sleep.",
-          "brain_region": "Elevated whole-brain metabolic activity, increased fast-frequency EEG activity during sleep, elevated evening cortisol levels, and auditory evoked potential findings suggesting impaired inhibitory mechanisms — all pointing to dysregulation of the ascending reticular activating system (ARAS) and its interactions with VLPO (ventrolateral preoptic nucleus) GABAergic sleep-promoting systems.",
-          "how_to_test": "Detailed sleep history and sleep diary. Polysomnography (PSG — an overnight sleep study recording brain waves, breathing, and muscle activity) shows decreased sleep efficiency, increased sleep latency, and increased fast EEG activity. Importantly, must systematically evaluate and rule out: medical disorders, psychiatric conditions, circadian rhythm disorders, and movement disorders before diagnosing primary insomnia. Cognitive behavioral therapy for insomnia (CBT-I) is a first-line treatment."
+          "brain_region": "Elevated whole-brain metabolic activity, increased fast-frequency EEG activity during sleep, elevated evening cortisol levels, and auditory evoked potential findings suggesting impaired inhibitory mechanisms \u2014 all pointing to dysregulation of the ascending reticular activating system (ARAS) and its interactions with VLPO (ventrolateral preoptic nucleus) GABAergic sleep-promoting systems.",
+          "how_to_test": "Detailed sleep history and sleep diary. Polysomnography (PSG \u2014 an overnight sleep study recording brain waves, breathing, and muscle activity) shows decreased sleep efficiency, increased sleep latency, and increased fast EEG activity. Importantly, must systematically evaluate and rule out: medical disorders, psychiatric conditions, circadian rhythm disorders, and movement disorders before diagnosing primary insomnia. Cognitive behavioral therapy for insomnia (CBT-I) is a first-line treatment."
         },
         {
           "name": "Circadian Rhythm Sleep Disorders",
-          "symptoms": "Sleep timing is misaligned with the desired schedule due to abnormal function of the internal body clock. Delayed sleep phase syndrome (DSPS, most common) involves significant difficulty falling asleep at a normal bedtime and difficulty waking early — onset usually in adolescence. Advanced sleep phase syndrome (ASPS) involves early bedtime and early waking — more common in older adults. Free-running rhythms occur in about 50% of blind individuals whose retino-hypothalamic tract is disrupted. Patients typically present with insomnia complaints.",
-          "brain_region": "Suprachiasmatic nucleus (SCN) of the hypothalamus — the master biological clock. At least ten abnormalities in clock genes regulating circadian timing have been identified in DSPS and ASPS, which are strongly familial. The SCN normally synchronizes (entrains) to the light-dark cycle via the retino-hypothalamic tract.",
-          "how_to_test": "Sleep diary over 2+ weeks documenting sleep/wake times. Actigraphy (wrist-worn motion sensor worn over days to weeks) to objectively document rest-activity patterns. Measurement of dim-light melatonin onset (DLMO) — a primary circadian timing signal — helps determine the phase of the internal clock relative to the desired sleep time."
+          "symptoms": "Sleep timing is misaligned with the desired schedule due to abnormal function of the internal body clock. Delayed sleep phase syndrome (DSPS, most common) involves significant difficulty falling asleep at a normal bedtime and difficulty waking early \u2014 onset usually in adolescence. Advanced sleep phase syndrome (ASPS) involves early bedtime and early waking \u2014 more common in older adults. Free-running rhythms occur in about 50% of blind individuals whose retino-hypothalamic tract is disrupted. Patients typically present with insomnia complaints.",
+          "brain_region": "Suprachiasmatic nucleus (SCN) of the hypothalamus \u2014 the master biological clock. At least ten abnormalities in clock genes regulating circadian timing have been identified in DSPS and ASPS, which are strongly familial. The SCN normally synchronizes (entrains) to the light-dark cycle via the retino-hypothalamic tract.",
+          "how_to_test": "Sleep diary over 2+ weeks documenting sleep/wake times. Actigraphy (wrist-worn motion sensor worn over days to weeks) to objectively document rest-activity patterns. Measurement of dim-light melatonin onset (DLMO) \u2014 a primary circadian timing signal \u2014 helps determine the phase of the internal clock relative to the desired sleep time."
         },
         {
           "name": "Narcolepsy",
-          "symptoms": "A rare disorder (prevalence ~0.02%) causing irresistible sleep attacks during the day. The classic 'narcoleptic tetrad' includes: (1) excessive daytime sleepiness with uncontrollable sleep attacks, (2) cataplexy (sudden loss of muscle tone triggered by strong emotions like laughter or anger — patients may collapse), (3) sleep paralysis (brief inability to move when falling asleep or waking), and (4) hypnagogic hallucinations (vivid dream-like experiences at sleep onset). Nighttime sleep is also significantly disrupted.",
+          "symptoms": "A rare disorder (prevalence ~0.02%) causing irresistible sleep attacks during the day. The classic 'narcoleptic tetrad' includes: (1) excessive daytime sleepiness with uncontrollable sleep attacks, (2) cataplexy (sudden loss of muscle tone triggered by strong emotions like laughter or anger \u2014 patients may collapse), (3) sleep paralysis (brief inability to move when falling asleep or waking), and (4) hypnagogic hallucinations (vivid dream-like experiences at sleep onset). Nighttime sleep is also significantly disrupted.",
           "brain_region": "Loss of orexin/hypocretin-producing neurons in the lateral hypothalamus, likely autoimmune in origin (strongly associated with HLA-DQB1*0602 allele, found in 95% of patients with cataplexy). The lost orexin neurons normally stabilize the 'flip-flop switches' controlling sleep/wake and REM-on/REM-off transitions, explaining the state instability (sudden intrusions of REM sleep features into wakefulness).",
-          "how_to_test": "Clinical history focusing on the tetrad of symptoms. Overnight polysomnography (PSG) followed by a Multiple Sleep Latency Test (MSLT — a series of 4-5 scheduled naps the next day measuring how quickly the patient falls asleep). Diagnosis requires mean sleep latency <5 minutes and at least 2 sleep-onset REM periods on the MSLT. Cerebrospinal fluid (CSF) orexin/hypocretin levels are low or undetectable in narcolepsy with cataplexy."
+          "how_to_test": "Clinical history focusing on the tetrad of symptoms. Overnight polysomnography (PSG) followed by a Multiple Sleep Latency Test (MSLT \u2014 a series of 4-5 scheduled naps the next day measuring how quickly the patient falls asleep). Diagnosis requires mean sleep latency <5 minutes and at least 2 sleep-onset REM periods on the MSLT. Cerebrospinal fluid (CSF) orexin/hypocretin levels are low or undetectable in narcolepsy with cataplexy."
         },
         {
           "name": "Idiopathic Hypersomnia",
-          "symptoms": "Persistent daytime sleepiness with an irresistible need to sleep that leads to prolonged naps (often 60+ minutes) that are not refreshing. Between naps the patient is drowsy and has difficulty concentrating. Two forms exist: one with long nighttime sleep (>10 hours) and one without. Patients frequently report 'sleep drunkenness' — severe grogginess and confusion upon awakening.",
+          "symptoms": "Persistent daytime sleepiness with an irresistible need to sleep that leads to prolonged naps (often 60+ minutes) that are not refreshing. Between naps the patient is drowsy and has difficulty concentrating. Two forms exist: one with long nighttime sleep (>10 hours) and one without. Patients frequently report 'sleep drunkenness' \u2014 severe grogginess and confusion upon awakening.",
           "brain_region": "Etiology remains unclear. Unlike narcolepsy, patients do not have reduced CSF orexin/hypocretin levels and lack the HLA genetic markers of narcolepsy. They may have low CSF histamine levels, suggesting impaired histaminergic arousal promotion. No specific structural lesion has been identified.",
           "how_to_test": "PSG followed by MSLT shows shortened mean sleep latency but, unlike narcolepsy, no sleep-onset REM periods. Absence of cataplexy, hypnagogic hallucinations, and sleep paralysis helps differentiate from narcolepsy. Must rule out other causes of excessive sleepiness including sleep apnea, insufficient sleep, and medication effects."
         },
@@ -75,13 +79,13 @@
         },
         {
           "name": "Non-REM Parasomnias (Night Terrors, Sleepwalking, Confusional Arousals)",
-          "symptoms": "Events arising from deep non-REM sleep (Stage N3), typically in the first few hours of sleep. Night terrors begin with a cry followed by intense agitation, motor activity (even jumping out of bed), sweating, rapid heart rate, and dilated pupils — the patient is not conscious and has no recall. Sleepwalking ranges from simple wandering to complex behaviors (even driving) without conscious awareness. Both are more common in childhood and usually resolve by adulthood, though ~5% of adults have occasional episodes. Sleepwalking is highly hereditary (~60% chance if both parents sleepwalk).",
-          "brain_region": "Thought to involve partial but incomplete activation of brainstem arousal systems — 'central pattern generators' in the mesencephalon, pons, and spinal cord that are normally suppressed by neocortical inhibition during sleep. The release of these motor programs during incomplete arousal from deep sleep allows complex behaviors without conscious awareness.",
+          "symptoms": "Events arising from deep non-REM sleep (Stage N3), typically in the first few hours of sleep. Night terrors begin with a cry followed by intense agitation, motor activity (even jumping out of bed), sweating, rapid heart rate, and dilated pupils \u2014 the patient is not conscious and has no recall. Sleepwalking ranges from simple wandering to complex behaviors (even driving) without conscious awareness. Both are more common in childhood and usually resolve by adulthood, though ~5% of adults have occasional episodes. Sleepwalking is highly hereditary (~60% chance if both parents sleepwalk).",
+          "brain_region": "Thought to involve partial but incomplete activation of brainstem arousal systems \u2014 'central pattern generators' in the mesencephalon, pons, and spinal cord that are normally suppressed by neocortical inhibition during sleep. The release of these motor programs during incomplete arousal from deep sleep allows complex behaviors without conscious awareness.",
           "how_to_test": "Detailed sleep history from the patient and bed partner. Video-polysomnography can capture events and confirm they arise from non-REM sleep. Important to differentiate from REM behavior disorder (which occurs later in the night, during REM sleep, with dream recall) and nocturnal seizures. Factors known to increase frequency (sleep deprivation, alcohol, sedatives) should be identified."
         },
         {
           "name": "REM Sleep Behavior Disorder (RBD)",
-          "symptoms": "The normal skeletal muscle paralysis (atonia) that accompanies REM sleep is impaired, causing the patient to physically act out their dreams — sitting up, jumping out of bed, punching, kicking, or running during REM sleep. Can result in injury to the patient or bed partner. Most common in older men. Dream content can usually be recalled and matches the observed behavior. Critically, RBD is often an early marker of neurodegenerative disease — many patients later develop Parkinson's disease, dementia with Lewy bodies, or multiple system atrophy.",
+          "symptoms": "The normal skeletal muscle paralysis (atonia) that accompanies REM sleep is impaired, causing the patient to physically act out their dreams \u2014 sitting up, jumping out of bed, punching, kicking, or running during REM sleep. Can result in injury to the patient or bed partner. Most common in older men. Dream content can usually be recalled and matches the observed behavior. Critically, RBD is often an early marker of neurodegenerative disease \u2014 many patients later develop Parkinson's disease, dementia with Lewy bodies, or multiple system atrophy.",
           "brain_region": "Impairment of the REM sleep atonia circuit, involving the 'flip-flop switch' for REM sleep control in the brainstem (sublaterodorsal nucleus and its connections). In neurodegenerative conditions, alpha-synuclein pathology (the hallmark of Lewy body diseases) in these brainstem regions is thought to be responsible.",
           "how_to_test": "Clinical history of dream-enactment behavior is suggestive, but definitive diagnosis requires polysomnography showing increased muscle activity (loss of normal REM atonia) during REM sleep. Must differentiate from non-REM parasomnias and nocturnal seizures. Given the strong association with later neurodegeneration, patients diagnosed with RBD should be monitored longitudinally for emerging parkinsonian or cognitive symptoms."
         }
@@ -90,111 +94,81 @@
     {
       "category": "Disorders of Attention",
       "source_chapter": "Chapter 8: Attention",
-      "description": "Attention is a group of processes that allow us to select relevant information and suppress irrelevant information. It can be driven 'top-down' (by our goals) or 'bottom-up' (captured by salient stimuli). Disorders of attention disrupt the ability to focus, shift, and sustain mental resources.",
+      "description": "Attention is a group of processes that allow us to select relevant information and suppress irrelevant information. It can be driven 'top-down' (by our goals) or 'bottom-up' (captured by salient stimuli). Disorders of attention disrupt the ability to focus, shift, and sustain mental resources. Note: extinction (failure to detect a contralesional stimulus only when competing stimuli are presented simultaneously) is a related clinical sign that may represent a milder form of neglect.",
       "disorders": [
         {
           "name": "Hemispatial Neglect (Hemineglect)",
-          "symptoms": "A failure to report, respond to, or orient toward stimuli on the side of space opposite a brain lesion — not explained by blindness or paralysis. In severe cases, the patient behaves as if half the world has ceased to exist: they may eat food only from one side of the plate, shave only one side of the face, or collide with objects on the neglected side. Can be sensory (failure to notice stimuli) or motor (failure to act toward that side even though the patient is aware of stimuli). Most commonly affects the left side of space after right hemisphere damage. Patients often lack awareness of their deficit (anosognosia).",
+          "symptoms": "A failure to report, respond to, or orient toward stimuli on the side of space opposite a brain lesion \u2014 not explained by blindness or paralysis. In severe cases, the patient behaves as if half the world has ceased to exist: they may eat food only from one side of the plate, shave only one side of the face, or collide with objects on the neglected side. Can be sensory (failure to notice stimuli) or motor (failure to act toward that side even though the patient is aware of stimuli). Most commonly affects the left side of space after right hemisphere damage. Patients often lack awareness of their deficit (anosognosia).",
           "brain_region": "Most commonly the right posterior parietal lobe, especially the inferior parietal area (angular gyrus, supramarginal gyrus). Also associated with right frontal lesions (causing motor-intentional neglect), right thalamic lesions, and damage to parietal-frontal white matter pathways (superior occipitofrontal fasciculus). Stroke is the most common cause.",
-          "how_to_test": "Line bisection test: ask the patient to mark the center of a horizontal line — patients with neglect displace the mark toward the side of their lesion (rightward for right hemisphere damage). Cancellation tests: ask the patient to cross out all target items (e.g., stars) scattered on a page — they will miss items on the neglected side. Drawing tests: ask the patient to draw a clock or copy a figure — they will omit details on the neglected side. The severity can be quantified by the number of targets missed."
-        },
-        {
-          "name": "Extinction",
-          "symptoms": "A milder form of neglect in which the patient can detect a single stimulus on either side of space, but when stimuli are presented simultaneously on both sides, they fail to report the stimulus on the side opposite the brain lesion. The stimulus on the contralesional side is 'extinguished' by the competing ipsilesional stimulus. Considered by some to represent an attentional deficit that emerges under conditions of competition for limited processing resources.",
-          "brain_region": "Similar to neglect — right parietal lobe lesions most commonly, reflecting impaired attentional competition mechanisms in the dorsal and ventral attention networks.",
-          "how_to_test": "Double simultaneous stimulation: present visual, tactile, or auditory stimuli one at a time to each side (to confirm detection), then simultaneously to both sides. The patient with extinction will miss the contralesional stimulus only during simultaneous presentation."
+          "how_to_test": "Line bisection test: ask the patient to mark the center of a horizontal line \u2014 patients with neglect displace the mark toward the side of their lesion (rightward for right hemisphere damage). Cancellation tests: ask the patient to cross out all target items (e.g., stars) scattered on a page \u2014 they will miss items on the neglected side. Drawing tests: ask the patient to draw a clock or copy a figure \u2014 they will omit details on the neglected side. The severity can be quantified by the number of targets missed."
         }
       ]
     },
     {
       "category": "Disorders of Motivation",
       "source_chapter": "Chapter 9: Motivation",
-      "description": "Motivation is the process that activates an organism to pursue goals. It depends on neural structures that assign importance and value to stimuli and generate appropriate behavioral responses, centered on the amygdala, nucleus accumbens, and prefrontal cortex, with dopamine playing a key modulatory role.",
+      "description": "Motivation is the process that activates an organism to pursue goals. It depends on neural structures that assign importance and value to stimuli and generate appropriate behavioral responses, centered on the amygdala, nucleus accumbens, and prefrontal cortex, with dopamine playing a key modulatory role. Note: abulia (severe reduction in spontaneous behavior and speech) and akinetic mutism (silent, motionless wakefulness) represent increasingly severe manifestations on the same spectrum as apathy.",
       "disorders": [
         {
           "name": "Apathy",
-          "symptoms": "A syndrome of diminished motivation not attributable to diminished consciousness, cognitive impairment alone, or emotional distress. Manifests across three domains: (1) diminished goal-directed behavior — lack of effort, energy, or initiative for everyday activities, reliance on others to structure the day; (2) diminished goal-directed cognition — lack of interest in new things, lack of concern about personal problems; (3) diminished emotional concomitants — flat or unchanging affect, lack of emotional responsivity to positive or negative events. Present most of the day for at least four weeks. Importantly, apathy can occur independently of depression — the patient lacks motivation but may not report sadness.",
-          "brain_region": "Medial frontal cortex (especially anterior cingulate cortex), ventral striatum (nucleus accumbens), ventral tegmental area (dopaminergic projections), and their interconnecting white matter pathways — the 'anterior cingulate circuit' of the frontal-subcortical circuits. Common in Parkinson's disease, Alzheimer's disease, stroke (especially affecting medial frontal or basal ganglia regions), and traumatic brain injury.",
-          "how_to_test": "Structured Clinical Interview for Apathy is the only standardized diagnostic assessment. Validated rating scales include the Apathy Evaluation Scale (rated by informant, examiner, and patient), the Apathy Scale, and the Apathy Inventory. Key is distinguishing apathy from depression — depressed patients typically report sadness, guilt, hopelessness, and sleep/appetite disturbance, while purely apathetic patients lack these features but show pervasive lack of initiative and emotional responsiveness."
-        },
-        {
-          "name": "Abulia",
-          "symptoms": "A severe reduction in spontaneous behavior, speech, and movement — the patient appears profoundly passive and indifferent. They can perform actions when strongly prompted but will not initiate them on their own. Considered a more severe form of apathy on a continuum with akinetic mutism. The patient is awake and can track with their eyes but shows minimal spontaneous engagement with the environment.",
-          "brain_region": "Medial frontal lobe (anterior cingulate cortex and supplementary motor area), basal ganglia (especially caudate nucleus), and their connections. Most commonly seen after bilateral anterior cerebral artery strokes affecting the medial frontal cortex, or after damage to the anterior cingulate circuit.",
-          "how_to_test": "Clinical observation of markedly reduced spontaneous behavior and speech in the context of preserved ability to respond when directly and persistently stimulated. The patient can speak and move but simply does not initiate activity. Important to differentiate from depression (abulic patients lack the sadness and vegetative symptoms) and from coma/vegetative state (abulic patients are clearly awake)."
+          "symptoms": "A syndrome of diminished motivation not attributable to diminished consciousness, cognitive impairment alone, or emotional distress. Manifests across three domains: (1) diminished goal-directed behavior \u2014 lack of effort, energy, or initiative for everyday activities, reliance on others to structure the day; (2) diminished goal-directed cognition \u2014 lack of interest in new things, lack of concern about personal problems; (3) diminished emotional concomitants \u2014 flat or unchanging affect, lack of emotional responsivity to positive or negative events. Present most of the day for at least four weeks. Importantly, apathy can occur independently of depression \u2014 the patient lacks motivation but may not report sadness.",
+          "brain_region": "Medial frontal cortex (especially anterior cingulate cortex), ventral striatum (nucleus accumbens), ventral tegmental area (dopaminergic projections), and their interconnecting white matter pathways \u2014 the 'anterior cingulate circuit' of the frontal-subcortical circuits. Common in Parkinson's disease, Alzheimer's disease, stroke (especially affecting medial frontal or basal ganglia regions), and traumatic brain injury.",
+          "how_to_test": "Structured Clinical Interview for Apathy is the only standardized diagnostic assessment. Validated rating scales include the Apathy Evaluation Scale (rated by informant, examiner, and patient), the Apathy Scale, and the Apathy Inventory. Key is distinguishing apathy from depression \u2014 depressed patients typically report sadness, guilt, hopelessness, and sleep/appetite disturbance, while purely apathetic patients lack these features but show pervasive lack of initiative and emotional responsiveness."
         }
       ]
     },
     {
       "category": "Disorders of Perception and Recognition",
       "source_chapter": "Chapter 10: Perception and recognition",
-      "description": "Perception builds on raw sensory information to extract complex features (motion, color, form). Recognition goes further — identifying what is perceived by accessing stored memories. Disorders may involve loss of normal perception ('negative' symptoms) or false perceptions ('positive' symptoms like hallucinations).",
+      "description": "Perception builds on raw sensory information to extract complex features (motion, color, form). Recognition goes further \u2014 identifying what is perceived by accessing stored memories. Disorders may involve loss of normal perception ('negative' symptoms) or false perceptions ('positive' symptoms like hallucinations).",
       "disorders": [
         {
           "name": "Cortical Blindness / Anton's Syndrome",
           "symptoms": "Complete loss of vision caused by brain damage (not eye damage). In Anton's syndrome, the patient is remarkably unaware that they are blind (a condition called 'anosognosia') and may confidently describe visual scenes that aren't there (confabulation of visual experiences).",
           "brain_region": "Bilateral primary visual cortex (V1, along the calcarine fissure in the occipital lobe).",
-          "how_to_test": "Present objects or fingers in the visual field — the patient will not respond. Ask whether they can see: in Anton's syndrome they will insist they can and may describe non-existent objects. Pupillary reflexes to light are preserved (since the eyes and brainstem pathways are intact)."
-        },
-        {
-          "name": "Blindsight",
-          "symptoms": "A paradoxical condition in which the patient reports being unable to see in a region of their visual field, yet when forced to guess, they can point to or reach toward visual targets with above-chance accuracy. They have no conscious visual experience.",
-          "brain_region": "Damage to primary visual cortex (V1) with preserved alternative visual pathways via the superior colliculus and pulvinar nucleus, which route visual information to the dorsal visual stream without passing through V1.",
-          "how_to_test": "Present visual stimuli within the 'blind' field and use forced-choice tasks — 'Was the stimulus on the left or right?' Patients perform significantly above chance despite reporting they saw nothing."
+          "how_to_test": "Present objects or fingers in the visual field \u2014 the patient will not respond. Ask whether they can see: in Anton's syndrome they will insist they can and may describe non-existent objects. Pupillary reflexes to light are preserved (since the eyes and brainstem pathways are intact)."
         },
         {
           "name": "Akinetopsia (Motion Blindness)",
-          "symptoms": "A rare, selective loss of the ability to perceive motion while color and form perception remain intact. The visual world appears as a series of frozen snapshots — pouring water appears as a frozen column, moving cars seem to jump between positions.",
+          "symptoms": "A rare, selective loss of the ability to perceive motion while color and form perception remain intact. The visual world appears as a series of frozen snapshots \u2014 pouring water appears as a frozen column, moving cars seem to jump between positions.",
           "brain_region": "Area V5 (also called hMT+), in the motion-sensitive middle temporal cortex.",
           "how_to_test": "Present moving stimuli (swinging pendulum, moving dots) and ask the patient what they see. They will describe static snapshots or report that objects 'jump' rather than move smoothly."
         },
         {
           "name": "Central Achromatopsia (Cortical Color Blindness)",
-          "symptoms": "Selective loss of color perception from brain damage — the world appears in shades of gray. Often accompanied by upper visual field defects. Distinct from inherited color blindness (which is an eye-level problem).",
+          "symptoms": "Selective loss of color perception from brain damage \u2014 the world appears in shades of gray. Often accompanied by upper visual field defects. Distinct from inherited color blindness (which is an eye-level problem).",
           "brain_region": "Area V4, in the lingual and fusiform gyri of the inferior occipital/temporal cortex.",
-          "how_to_test": "Present Ishihara color plates and ask the patient to sort colored objects by hue — they will fail, but can still identify shapes and detect motion. Eyes are structurally normal."
+          "how_to_test": "Present Ishihara color plates and ask the patient to sort colored objects by hue \u2014 they will fail, but can still identify shapes and detect motion. Eyes are structurally normal."
         },
         {
           "name": "Simultanagnosia and Balint's Syndrome",
           "symptoms": "Inability to perceive more than one object at a time or to see the 'big picture.' If shown a picture of a picnic, the patient reports isolated elements ('a blanket,' 'a sandwich') but cannot integrate them into a scene. Full Balint's syndrome adds: (1) optic ataxia (inability to reach accurately for objects under visual guidance) and (2) oculomotor apraxia (inability to voluntarily shift gaze to a new target).",
           "brain_region": "Bilateral occipitoparietal cortex (the dorsal or 'where/how' visual stream).",
-          "how_to_test": "Show a complex scene (e.g., Cookie Theft picture) and ask what they see — they will report isolated elements. For Balint's syndrome, also test visually guided reaching and voluntary gaze shifting."
+          "how_to_test": "Show a complex scene (e.g., Cookie Theft picture) and ask what they see \u2014 they will report isolated elements. For Balint's syndrome, also test visually guided reaching and voluntary gaze shifting."
         },
         {
           "name": "Apperceptive Visual Agnosia",
-          "symptoms": "Inability to form a coherent visual image of an object — patients cannot copy drawings, match shapes, or judge whether two objects are the same. Recognition fails at the perceptual level. They may recognize the same object by touch or sound.",
+          "symptoms": "Inability to form a coherent visual image of an object \u2014 patients cannot copy drawings, match shapes, or judge whether two objects are the same. Recognition fails at the perceptual level. They may recognize the same object by touch or sound.",
           "brain_region": "Extrastriate visual cortex (early visual association areas, Brodmann areas 18/19).",
-          "how_to_test": "Ask the patient to copy simple drawings (circle, house) — they will produce fragmented, disorganized copies. Shape-matching tasks ('Are these two shapes the same?') will also fail. Tactile recognition should be intact."
+          "how_to_test": "Ask the patient to copy simple drawings (circle, house) \u2014 they will produce fragmented, disorganized copies. Shape-matching tasks ('Are these two shapes the same?') will also fail. Tactile recognition should be intact."
         },
         {
           "name": "Associative Visual Agnosia",
-          "symptoms": "The patient can see objects clearly — drawing accurate copies and describing visual features ('round, has a stem, is red') — but cannot identify, name, or state the function of what they are looking at. The link between intact perception and stored object knowledge is broken.",
+          "symptoms": "The patient can see objects clearly \u2014 drawing accurate copies and describing visual features ('round, has a stem, is red') \u2014 but cannot identify, name, or state the function of what they are looking at. The link between intact perception and stored object knowledge is broken.",
           "brain_region": "Ventral visual stream (occipitotemporal cortex, the 'what' pathway).",
-          "how_to_test": "Ask the patient to copy an object — they succeed. Ask them to name or describe its use — they fail. Present the object to another sense (e.g., jangle keys out of sight) — they recognize it immediately."
+          "how_to_test": "Ask the patient to copy an object \u2014 they succeed. Ask them to name or describe its use \u2014 they fail. Present the object to another sense (e.g., jangle keys out of sight) \u2014 they recognize it immediately."
         },
         {
           "name": "Prosopagnosia (Face Blindness)",
-          "symptoms": "Inability to recognize familiar faces — even close family members or one's own face in a mirror — despite seeing facial features clearly. Patients learn to identify people by voice, hairstyle, gait, or clothing. Both apperceptive (difficulty perceiving the face as a whole) and associative (intact perception but inability to match face to identity) forms exist.",
+          "symptoms": "Inability to recognize familiar faces \u2014 even close family members or one's own face in a mirror \u2014 despite seeing facial features clearly. Patients learn to identify people by voice, hairstyle, gait, or clothing. Both apperceptive (difficulty perceiving the face as a whole) and associative (intact perception but inability to match face to identity) forms exist.",
           "brain_region": "Fusiform face area (medial occipitotemporal gyrus), with contributions from the left inferior occipital gyrus and right posterior superior temporal sulcus.",
-          "how_to_test": "Show photographs of famous faces or family members — the patient will fail to identify them. Play recorded voices of the same people — recognition is intact. Standardized tests include the Benton Facial Recognition Test and Famous Faces Test."
+          "how_to_test": "Show photographs of famous faces or family members \u2014 the patient will fail to identify them. Play recorded voices of the same people \u2014 recognition is intact. Standardized tests include the Benton Facial Recognition Test and Famous Faces Test."
         },
         {
           "name": "Auditory Agnosia",
           "symptoms": "Inability to recognize or identify sounds despite normal hearing (confirmed by audiometry). Subtypes include pure word deafness (inability to understand speech while non-speech sounds are recognized) and auditory sound agnosia (inability to recognize environmental sounds like a telephone or dog barking).",
           "brain_region": "Auditory association cortex in the superior temporal gyrus (belt and parabelt regions surrounding primary auditory cortex). Pure word deafness involves bilateral or unilateral lesions undercutting Wernicke's area.",
           "how_to_test": "Play recordings of common sounds (phone, dog bark, water) and ask the patient to identify them. Compare with visual recognition. Standard audiometry confirms intact basic hearing."
-        },
-        {
-          "name": "Simple/Elementary Visual Hallucinations",
-          "symptoms": "The patient sees flashes of light, colored spots ('phosphenes'), zigzag lines, or simple geometric shapes that aren't there. Brief, stereotyped, often triggered by seizures or migraine.",
-          "brain_region": "Occipital lobe or central visual pathway. Migraine auras and occipital lobe epilepsy are common causes.",
-          "how_to_test": "Detailed history — ictal hallucinations are very brief (seconds to minutes) and stereotyped; migraine auras evolve over 15-30 minutes with characteristic spreading patterns."
-        },
-        {
-          "name": "Complex/Formed Visual Hallucinations",
-          "symptoms": "Detailed, recognizable images of people, animals, or landscapes that aren't there. Insight may be preserved (Charles Bonnet syndrome) or impaired (Lewy body dementia). Often occur in dim lighting or sleep-wake transitions.",
-          "brain_region": "Visual association cortex in the temporal lobe. Also common in Parkinson's disease (subcortical dopaminergic pathology) and Charles Bonnet syndrome (peripheral visual loss causing the brain to 'fill in' missing input).",
-          "how_to_test": "Detailed history of content, duration, time of day, triggers, and level of insight. Ask whether the patient recognizes them as unreal."
         },
         {
           "name": "Posterior Cortical Atrophy (PCA)",
@@ -207,19 +181,13 @@
     {
       "category": "Disorders of Memory",
       "source_chapter": "Chapter 11: Memory",
-      "description": "Memory is not a single system but multiple systems classified by the type of information stored (declarative vs. procedural) and the time course of storage (working, short-term, long-term). The hippocampus and medial temporal lobe are critical for forming new declarative memories, while frontal regions support memory retrieval and working memory.",
+      "description": "Memory is not a single system but multiple systems classified by the type of information stored (declarative vs. procedural) and the time course of storage (working, short-term, long-term). The hippocampus and medial temporal lobe are critical for forming new declarative memories, while frontal regions support memory retrieval and working memory. Note: confabulation (unintentional production of false memories) is a symptom commonly associated with amnesia, particularly when ventromedial prefrontal cortex or basal forebrain damage accompanies the memory deficit.",
       "disorders": [
         {
           "name": "Amnesia (Declarative Memory Impairment)",
-          "symptoms": "Impaired ability to form new memories (anterograde amnesia) and/or retrieve previously formed memories (retrograde amnesia). The patient may repeatedly ask the same questions, forget conversations minutes after they occur, and be unable to learn new facts or events. Retrograde amnesia typically follows Ribot's law — memories from the distant past are better preserved than more recent ones. Importantly, procedural memory (skills, habits) is usually preserved: an amnestic patient may still ride a bicycle despite not remembering having practiced.",
-          "brain_region": "Medial temporal lobe structures, especially the hippocampus and entorhinal cortex (critical for encoding new declarative memories). Also involves the diencephalon (anterior thalamic nuclei, mammillary bodies — as in Korsakoff's syndrome) and basal forebrain cholinergic neurons. Frontal lobe involvement impairs strategic retrieval and working memory rather than encoding per se.",
-          "how_to_test": "Wechsler Memory Scale (WMS) subtests: Logical Memory (recall a short story immediately and after a delay), Visual Reproduction (draw geometric figures from memory). Rey Auditory Verbal Learning Test (learn and recall a word list over multiple trials). At the bedside: tell the patient three unrelated words, continue the interview for 5 minutes, then ask them to recall the words. The distinction between encoding failure (medial temporal) and retrieval failure (frontal) can be tested by comparing free recall with recognition or cued recall — patients with retrieval deficits improve with cues while those with encoding deficits do not."
-        },
-        {
-          "name": "Confabulation",
-          "symptoms": "The unintentional production of false or distorted memories without the intent to deceive. The patient may provide detailed but fabricated accounts of events that never occurred, often seamlessly woven into conversation. Two types: provoked confabulation (inaccurate responses to specific questions, common in many amnestic patients) and spontaneous confabulation (unprompted, often bizarre fabrications that the patient acts upon — much rarer and more clinically significant).",
-          "brain_region": "Spontaneous confabulation is most strongly associated with damage to the ventromedial prefrontal cortex and basal forebrain, which are thought to play a role in monitoring the accuracy of retrieved memories. Also seen with orbitofrontal and anterior communicating artery aneurysm ruptures affecting the basal forebrain.",
-          "how_to_test": "Ask the patient about recent events (e.g., 'What did you do yesterday?') and compare their answers with known facts. Present the patient with a recognition memory test that includes plausible but non-presented 'lure' items — confabulating patients will endorse many false items with high confidence."
+          "symptoms": "Impaired ability to form new memories (anterograde amnesia) and/or retrieve previously formed memories (retrograde amnesia). The patient may repeatedly ask the same questions, forget conversations minutes after they occur, and be unable to learn new facts or events. Retrograde amnesia typically follows Ribot's law \u2014 memories from the distant past are better preserved than more recent ones. Importantly, procedural memory (skills, habits) is usually preserved: an amnestic patient may still ride a bicycle despite not remembering having practiced.",
+          "brain_region": "Medial temporal lobe structures, especially the hippocampus and entorhinal cortex (critical for encoding new declarative memories). Also involves the diencephalon (anterior thalamic nuclei, mammillary bodies \u2014 as in Korsakoff's syndrome) and basal forebrain cholinergic neurons. Frontal lobe involvement impairs strategic retrieval and working memory rather than encoding per se.",
+          "how_to_test": "Wechsler Memory Scale (WMS) subtests: Logical Memory (recall a short story immediately and after a delay), Visual Reproduction (draw geometric figures from memory). Rey Auditory Verbal Learning Test (learn and recall a word list over multiple trials). At the bedside: tell the patient three unrelated words, continue the interview for 5 minutes, then ask them to recall the words. The distinction between encoding failure (medial temporal) and retrieval failure (frontal) can be tested by comparing free recall with recognition or cued recall \u2014 patients with retrieval deficits improve with cues while those with encoding deficits do not."
         }
       ]
     },
@@ -230,50 +198,50 @@
       "disorders": [
         {
           "name": "Broca's Aphasia",
-          "symptoms": "Speech is effortful and halting ('non-fluent') — patients speak in short, telegraphic phrases, often dropping small grammatical words. They understand most of what is said but struggle to produce speech and form grammatically correct sentences. Writing is similarly impaired.",
+          "symptoms": "Speech is effortful and halting ('non-fluent') \u2014 patients speak in short, telegraphic phrases, often dropping small grammatical words. They understand most of what is said but struggle to produce speech and form grammatically correct sentences. Writing is similarly impaired.",
           "brain_region": "Left inferior frontal gyrus ('Broca's area,' Brodmann areas 44/45), plus underlying white matter and anterior insula. Damage confined only to Broca's area is often insufficient for the full syndrome.",
-          "how_to_test": "Ask the patient to describe the Cookie Theft picture (Boston Diagnostic Aphasia Examination) — output will be sparse and agrammatic. Test repetition with sentences of increasing length. Test comprehension with syntactically complex commands."
+          "how_to_test": "Ask the patient to describe the Cookie Theft picture (Boston Diagnostic Aphasia Examination) \u2014 output will be sparse and agrammatic. Test repetition with sentences of increasing length. Test comprehension with syntactically complex commands."
         },
         {
           "name": "Wernicke's Aphasia",
-          "symptoms": "Speech flows easily ('fluent') but is full of errors — wrong words, made-up words ('neologisms'), and phrases that make little sense ('word salad'). Comprehension of spoken and written language is severely impaired. The patient often does not realize their speech is disordered.",
+          "symptoms": "Speech flows easily ('fluent') but is full of errors \u2014 wrong words, made-up words ('neologisms'), and phrases that make little sense ('word salad'). Comprehension of spoken and written language is severely impaired. The patient often does not realize their speech is disordered.",
           "brain_region": "Left superior temporal gyrus ('Wernicke's area,' Brodmann area 22), plus underlying white matter and adjacent supramarginal/angular gyri.",
           "how_to_test": "Give verbal commands of increasing complexity ('Point to the ceiling,' then 'Put the pen on the book and hand me the watch'). Wernicke's aphasics fail even moderate commands. Their spontaneous speech sounds fluent but contains nonsensical substitutions."
         },
         {
           "name": "Global Aphasia",
-          "symptoms": "Devastating impairment across all language functions — the patient cannot speak fluently, understand language, repeat, name objects, read, or write.",
+          "symptoms": "Devastating impairment across all language functions \u2014 the patient cannot speak fluently, understand language, repeat, name objects, read, or write.",
           "brain_region": "Large left-hemisphere lesion encompassing both Broca's and Wernicke's areas, typically from a major left middle cerebral artery stroke.",
           "how_to_test": "All language tasks are severely impaired. Diagnosis is usually evident from bedside interaction."
         },
         {
           "name": "Conduction Aphasia",
           "symptoms": "Speech is fluent, comprehension is relatively intact, but the patient has a strikingly impaired ability to repeat words and phrases. They are aware of their errors and make multiple self-correction attempts ('conduite d'approche').",
-          "brain_region": "Anterior inferior parietal lobe, including the arcuate fasciculus and supramarginal gyrus — a 'disconnection' between Broca's and Wernicke's areas.",
+          "brain_region": "Anterior inferior parietal lobe, including the arcuate fasciculus and supramarginal gyrus \u2014 a 'disconnection' between Broca's and Wernicke's areas.",
           "how_to_test": "Test repetition with multi-syllable words and phrases ('no ifs, ands, or buts'). Disproportionate repetition difficulty compared to fluent speech and good comprehension is diagnostic."
         },
         {
           "name": "Transcortical Motor Aphasia",
-          "symptoms": "Resembles Broca's aphasia — sparse, effortful speech — but the patient can repeat words and sentences relatively well.",
+          "symptoms": "Resembles Broca's aphasia \u2014 sparse, effortful speech \u2014 but the patient can repeat words and sentences relatively well.",
           "brain_region": "Left supplementary motor area or white matter between it and Broca's area.",
           "how_to_test": "Note contrast between poor spontaneous speech (ask to describe a picture) and preserved repetition (ask to repeat a sentence)."
         },
         {
           "name": "Transcortical Sensory Aphasia",
-          "symptoms": "Fluent speech with poor comprehension — but the patient can repeat well, sometimes compulsively echoing what is said ('echolalia').",
+          "symptoms": "Fluent speech with poor comprehension \u2014 but the patient can repeat well, sometimes compulsively echoing what is said ('echolalia').",
           "brain_region": "Left angular gyrus or left posterior superior/middle temporal gyri.",
           "how_to_test": "The patient repeats sentences accurately but cannot explain what they mean."
         },
         {
           "name": "Mixed Transcortical Aphasia (Isolation Aphasia)",
-          "symptoms": "Speech is sparse, comprehension is poor, but repetition is strikingly preserved — the perisylvian language zone is 'isolated' from surrounding cortex.",
+          "symptoms": "Speech is sparse, comprehension is poor, but repetition is strikingly preserved \u2014 the perisylvian language zone is 'isolated' from surrounding cortex.",
           "brain_region": "Extensive damage surrounding the perisylvian region on multiple sides (e.g., watershed-zone strokes).",
           "how_to_test": "The patient cannot speak spontaneously or understand commands, yet echoes back sentences when prompted."
         },
         {
           "name": "Anomic Aphasia",
           "symptoms": "Fluent, grammatically correct speech with normal comprehension and repetition, but marked difficulty finding words (especially nouns). Patients talk 'around' the word they can't retrieve (circumlocution).",
-          "brain_region": "Variable — can result from lesions in many locations. Often a residual stage as other aphasias recover.",
+          "brain_region": "Variable \u2014 can result from lesions in many locations. Often a residual stage as other aphasias recover.",
           "how_to_test": "Boston Naming Test: show line drawings of objects and ask the patient to name them. Anomic patients fail on less common items and use circumlocutions."
         },
         {
@@ -286,36 +254,36 @@
           "name": "Alexia with Agraphia",
           "symptoms": "Loss of both reading and writing ability while spoken language is relatively spared.",
           "brain_region": "Left angular gyrus (inferior parietal lobe).",
-          "how_to_test": "Ask the patient to read a passage and write to dictation — both impaired while spoken language is preserved."
+          "how_to_test": "Ask the patient to read a passage and write to dictation \u2014 both impaired while spoken language is preserved."
         },
         {
           "name": "Alexia without Agraphia (Pure Alexia)",
-          "symptoms": "The patient cannot read but can still write — and paradoxically cannot read back what they just wrote. Some patients use slow 'letter-by-letter reading.'",
+          "symptoms": "The patient cannot read but can still write \u2014 and paradoxically cannot read back what they just wrote. Some patients use slow 'letter-by-letter reading.'",
           "brain_region": "Left occipital cortex plus splenium of the corpus callosum (disconnects the intact right visual cortex from left-hemisphere language areas).",
-          "how_to_test": "Ask the patient to read — they fail or read extremely slowly. Ask them to write to dictation — they succeed but cannot read it back."
+          "how_to_test": "Ask the patient to read \u2014 they fail or read extremely slowly. Ask them to write to dictation \u2014 they succeed but cannot read it back."
         },
         {
           "name": "Apraxia of Speech",
-          "symptoms": "A motor speech disorder — the patient knows what to say but cannot coordinate the movements to produce speech sounds correctly. Speech is effortful with groping articulatory movements and inconsistent errors that vary from attempt to attempt.",
+          "symptoms": "A motor speech disorder \u2014 the patient knows what to say but cannot coordinate the movements to produce speech sounds correctly. Speech is effortful with groping articulatory movements and inconsistent errors that vary from attempt to attempt.",
           "brain_region": "Left anterior insula and adjacent premotor cortex.",
-          "how_to_test": "Ask the patient to repeat multi-syllabic words ('caterpillar') multiple times — errors are inconsistent across repetitions."
+          "how_to_test": "Ask the patient to repeat multi-syllabic words ('caterpillar') multiple times \u2014 errors are inconsistent across repetitions."
         }
       ]
     },
     {
       "category": "Disorders of Affective Prosody",
       "source_chapter": "Chapter 13: Affective prosody",
-      "description": "Affective prosody is the emotional melody, rhythm, and intonation of speech — the way we convey and perceive emotions through tone of voice, emphasis, and timing. It is primarily a right-hemisphere function, analogous to how propositional language is a left-hemisphere function.",
+      "description": "Affective prosody is the emotional melody, rhythm, and intonation of speech \u2014 the way we convey and perceive emotions through tone of voice, emphasis, and timing. It is primarily a right-hemisphere function, analogous to how propositional language is a left-hemisphere function.",
       "disorders": [
         {
           "name": "Motor Aprosodia",
-          "symptoms": "The patient speaks in a flat, monotone voice without emotional inflection or accompanying gestures, even when discussing emotionally charged topics. Their comprehension of others' emotional tone may be intact. Can be misinterpreted as depression or indifference. Patients may exhibit flat affect even when verbally reporting strong emotions like distress or suicidality — clinicians may wrongly discount their verbal reports.",
+          "symptoms": "The patient speaks in a flat, monotone voice without emotional inflection or accompanying gestures, even when discussing emotionally charged topics. Their comprehension of others' emotional tone may be intact. Can be misinterpreted as depression or indifference. Patients may exhibit flat affect even when verbally reporting strong emotions like distress or suicidality \u2014 clinicians may wrongly discount their verbal reports.",
           "brain_region": "Right inferior frontal region (the right-hemisphere homologue of Broca's area) and its connections. Analogous to Broca's aphasia in the left hemisphere.",
           "how_to_test": "Observe spontaneous conversation for emotional inflection and gesturing. Ask the patient to repeat an emotionally neutral sentence using different emotional tones (happy, sad, angry, surprised). Motor aprosodic patients cannot vary their vocal inflection appropriately."
         },
         {
           "name": "Sensory Aprosodia",
-          "symptoms": "The patient cannot understand the emotional tone of others' speech — they cannot tell whether someone sounds happy, angry, or sad from voice alone. Their own speech prosody may be intact.",
+          "symptoms": "The patient cannot understand the emotional tone of others' speech \u2014 they cannot tell whether someone sounds happy, angry, or sad from voice alone. Their own speech prosody may be intact.",
           "brain_region": "Right posterior temporal/parietal region (the right-hemisphere homologue of Wernicke's area).",
           "how_to_test": "Stand behind the patient (to remove visual cues) and speak an emotionally neutral sentence using different emotional tones. Ask the patient to identify the emotion. Alternatively, present multiple-choice options. Sensory aprosodic patients perform poorly."
         },
@@ -334,31 +302,31 @@
       "disorders": [
         {
           "name": "Conceptual Apraxia",
-          "symptoms": "Loss of knowledge about tools and actions — the patient doesn't know which tool to use for a task or makes 'content errors' (e.g., making sawing motions when hammering is needed). May misuse objects in daily life (e.g., trying to eat with a toothbrush).",
+          "symptoms": "Loss of knowledge about tools and actions \u2014 the patient doesn't know which tool to use for a task or makes 'content errors' (e.g., making sawing motions when hammering is needed). May misuse objects in daily life (e.g., trying to eat with a toothbrush).",
           "brain_region": "Widely distributed across the left hemisphere (temporoparietal junction, inferior frontal, anterior dorsal premotor). Common in Alzheimer's disease and semantic dementia.",
           "how_to_test": "Florida Action Recall Test (FLART): show scenes requiring tool actions and ask patients to pantomime correct tool use. Observe daily activities for object misuse."
         },
         {
           "name": "Ideomotor Apraxia",
-          "symptoms": "The patient knows what to do but cannot execute how — when asked to pantomime tool use, they make spatial and timing errors: wrong hand position, wrong joint movements, using a body part as the tool. Performance improves with actual objects in hand.",
-          "brain_region": "Left inferior parietal lobe (supramarginal gyrus — stores learned 'movement formulas'), connections to premotor cortex and supplementary motor area. Can also result from callosal disconnection.",
-          "how_to_test": "Ask the patient to pantomime transitive acts ('Show me how you'd use scissors'). Instruct them not to use body parts as tools. Test imitation and actual object use — performance typically improves across these conditions."
+          "symptoms": "The patient knows what to do but cannot execute how \u2014 when asked to pantomime tool use, they make spatial and timing errors: wrong hand position, wrong joint movements, using a body part as the tool. Performance improves with actual objects in hand.",
+          "brain_region": "Left inferior parietal lobe (supramarginal gyrus \u2014 stores learned 'movement formulas'), connections to premotor cortex and supplementary motor area. Can also result from callosal disconnection.",
+          "how_to_test": "Ask the patient to pantomime transitive acts ('Show me how you'd use scissors'). Instruct them not to use body parts as tools. Test imitation and actual object use \u2014 performance typically improves across these conditions."
         },
         {
           "name": "Ideational Apraxia",
-          "symptoms": "Breakdown in sequencing multi-step actions — individual steps may be correct but they are performed in the wrong order. Example: trying to cut a sandwich before putting fillings on the bread.",
+          "symptoms": "Breakdown in sequencing multi-step actions \u2014 individual steps may be correct but they are performed in the wrong order. Example: trying to cut a sandwich before putting fillings on the bread.",
           "brain_region": "Left inferior parietal lobe or diffuse cortical degeneration. Common in Alzheimer's disease.",
           "how_to_test": "Ask the patient to perform multi-step tasks with real objects: making a cup of tea, preparing a letter to mail. Observe whether steps are in logical order."
         },
         {
           "name": "Limb-Kinetic Apraxia",
-          "symptoms": "Loss of fine, dexterous hand movements — the hand appears clumsy for delicate tasks (picking up coins, buttoning) despite adequate strength. Affects only the side opposite the brain lesion.",
+          "symptoms": "Loss of fine, dexterous hand movements \u2014 the hand appears clumsy for delicate tasks (picking up coins, buttoning) despite adequate strength. Affects only the side opposite the brain lesion.",
           "brain_region": "Contralateral premotor or primary motor cortex.",
           "how_to_test": "Ask for rapid fine motor tasks: picking up small objects, sequential finger tapping, rotating a coin. Compare both hands."
         },
         {
           "name": "Dissociation Apraxia",
-          "symptoms": "Cannot perform skilled movement on verbal command ('Show me how you'd use a key') but can do it by imitation or with the actual object — a disconnection between language comprehension and motor programming.",
+          "symptoms": "Cannot perform skilled movement on verbal command ('Show me how you'd use a key') but can do it by imitation or with the actual object \u2014 a disconnection between language comprehension and motor programming.",
           "brain_region": "Disconnection between left-hemisphere language and motor planning areas. Also seen after callosal damage (affecting only the left hand).",
           "how_to_test": "Test the same action across three conditions: verbal command, imitation, and actual object use. Dissociation apraxia shows failure on command with success on imitation and actual use."
         }
@@ -367,119 +335,64 @@
     {
       "category": "Visuospatial Disorders",
       "source_chapter": "Chapter 15: Visuospatial function",
-      "description": "Visuospatial function encompasses the ability to perceive spatial relationships, navigate through space, judge distances and depth, and mentally manipulate spatial information. These abilities depend heavily on parietal lobe and dorsal visual stream processing.",
+      "description": "Visuospatial function encompasses the ability to perceive spatial relationships, navigate through space, judge distances and depth, and mentally manipulate spatial information. These abilities depend heavily on parietal lobe and dorsal visual stream processing. Note: constructional apraxia (difficulty drawing, copying figures, or assembling objects) is a clinical sign of visuospatial-motor integration failure rather than a discrete disorder. Hemispatial neglect, though often discussed in the visuospatial context, is listed under Disorders of Attention.",
       "disorders": [
         {
-          "name": "Hemispatial Neglect",
-          "symptoms": "Failure to report, respond to, or orient toward stimuli on the side opposite a brain lesion — described in full under Disorders of Attention above. Can be sensory (failure to notice) or motor (failure to act toward that side). Most commonly affects the left side after right hemisphere stroke.",
-          "brain_region": "Right posterior parietal lobe (especially inferior parietal area), right frontal lobe, right thalamus, and parietal-frontal white matter pathways.",
-          "how_to_test": "Line bisection, cancellation tasks, clock drawing, and drawing/copying tasks. Also test for personal neglect (awareness of the contralesional body) versus extrapersonal neglect (awareness of contralesional space)."
-        },
-        {
           "name": "Topographical Disorientation",
-          "symptoms": "Impaired ability to navigate through and orient oneself in the environment — patients get lost in familiar places, cannot follow maps, and may be unable to describe routes to well-known locations. Can occur as an early or prominent feature of Alzheimer's disease.",
-          "brain_region": "Right hippocampus and parahippocampal cortex (for allocentric spatial memory — locations of objects relative to each other), posterior parietal cortex (for egocentric spatial memory — locations relative to the observer), and retrosplenial cortex (for translating between these two reference frames).",
+          "symptoms": "Impaired ability to navigate through and orient oneself in the environment \u2014 patients get lost in familiar places, cannot follow maps, and may be unable to describe routes to well-known locations. Can occur as an early or prominent feature of Alzheimer's disease.",
+          "brain_region": "Right hippocampus and parahippocampal cortex (for allocentric spatial memory \u2014 locations of objects relative to each other), posterior parietal cortex (for egocentric spatial memory \u2014 locations relative to the observer), and retrosplenial cortex (for translating between these two reference frames).",
           "how_to_test": "Ask the patient to describe routes between familiar locations. Test map reading. Virtual navigation tasks in research settings. Longitudinal monitoring for progressive neurodegenerative disease."
-        },
-        {
-          "name": "Constructional Apraxia",
-          "symptoms": "Difficulty with drawing, copying figures, building with blocks, or assembling objects — tasks that require translating a visuospatial percept into a motor act. The patient can see the target correctly but cannot reproduce it. Not a true 'apraxia' in the traditional sense (not a disorder of learned skilled movements) but rather a disorder of visuospatial-motor integration.",
-          "brain_region": "Right parietal lobe lesions produce the most severe and persistent deficits (especially affecting spatial layout and relationships). Left parietal lesions can also cause constructional difficulties but with different error patterns (oversimplification rather than spatial disorganization).",
-          "how_to_test": "Ask the patient to copy geometric figures (Rey Complex Figure Test), draw a clock face with numbers and set the hands to a specified time, or build patterns with blocks (WAIS Block Design subtest). Right-hemisphere patients tend to disregard spatial relationships; left-hemisphere patients tend to simplify the overall design."
         }
       ]
     },
     {
       "category": "Disorders of Executive Function",
       "source_chapter": "Chapter 16: Executive function",
-      "description": "Executive function refers to the complex set of processes that manage and control other cognitive functions — planning, problem-solving, cognitive flexibility, inhibition, working memory, and error monitoring. These are engaged most fully when facing novel problems for which no established routine exists.",
+      "description": "Executive function refers to the complex set of processes that manage and control other cognitive functions \u2014 planning, problem-solving, cognitive flexibility, inhibition, working memory, and error monitoring. These are engaged most fully when facing novel problems for which no established routine exists.",
       "disorders": [
         {
           "name": "Dysexecutive Syndrome",
           "symptoms": "A constellation of impairments in two or more executive abilities: difficulty with abstract thinking and conceptualization; cognitive inflexibility (getting 'stuck' on one approach, inability to shift strategies); impaired attention control and working memory; poor decision-making, judgment, impulsivity, and disinhibition; difficulty setting goals, organizing plans, maintaining them over time, and shifting when needed; difficulty detecting and correcting errors. Compromises the ability to meet everyday demands flexibly and adaptively, even when basic cognitive functions (language, memory, perception) are relatively preserved.",
-          "brain_region": "Distributed neural networks centered on the prefrontal cortex and its connections to basal ganglia, thalamus, cerebellum, and other cortical regions via frontal-subcortical circuits and long-range white matter tracts. Importantly, the lesion responsible may be located anywhere within these distributed networks — not only in the frontal lobes. Mesulam proposed the term 'frontal network syndrome' to reflect this.",
-          "how_to_test": "No single test is sufficient — multiple measures are recommended. Common instruments include: Wisconsin Card Sorting Test (assesses cognitive flexibility and set-shifting), Trail Making Test Part B (alternating between two sequences — measures set-shifting and processing speed), Stroop Color-Word Test (measures inhibition of automatic responses), verbal fluency tests (phonemic: generate words starting with a letter; semantic: generate category members), and the Tower of London/Hanoi (planning ability). Bedside tests include clock drawing, Luria hand sequences (fist-edge-palm), go/no-go tasks, and interpretation of proverbs."
+          "brain_region": "Distributed neural networks centered on the prefrontal cortex and its connections to basal ganglia, thalamus, cerebellum, and other cortical regions via frontal-subcortical circuits and long-range white matter tracts. Importantly, the lesion responsible may be located anywhere within these distributed networks \u2014 not only in the frontal lobes. Mesulam proposed the term 'frontal network syndrome' to reflect this.",
+          "how_to_test": "No single test is sufficient \u2014 multiple measures are recommended. Common instruments include: Wisconsin Card Sorting Test (assesses cognitive flexibility and set-shifting), Trail Making Test Part B (alternating between two sequences \u2014 measures set-shifting and processing speed), Stroop Color-Word Test (measures inhibition of automatic responses), verbal fluency tests (phonemic: generate words starting with a letter; semantic: generate category members), and the Tower of London/Hanoi (planning ability). Bedside tests include clock drawing, Luria hand sequences (fist-edge-palm), go/no-go tasks, and interpretation of proverbs."
         }
       ]
     },
     {
       "category": "Disorders of Comportment",
       "source_chapter": "Chapter 17: Comportment",
-      "description": "Comportment encompasses the complex mental processes of insight, judgment, self-awareness, empathy, and social adaptation — essentially, the brain's ability to regulate personality and social behavior. The prefrontal cortex is the critical region, as famously demonstrated by the case of Phineas Gage.",
+      "description": "Comportment encompasses the complex mental processes of insight, judgment, self-awareness, empathy, and social adaptation \u2014 essentially, the brain's ability to regulate personality and social behavior. The prefrontal cortex is the critical region, as famously demonstrated by the case of Phineas Gage.",
       "disorders": [
         {
           "name": "Orbitofrontal Syndrome (Disinhibited/Pseudopsychopathic)",
-          "symptoms": "Personality change characterized by disinhibition, impulsivity, inappropriate social behavior, poor judgment, and reduced concern for consequences. Patients may make crude remarks, act impulsively on desires, violate social norms, and show inappropriate familiarity with strangers. They may develop intimate relations with strangers or make poor financial decisions. Emotional processing is often disrupted — patients may know the rules of social conduct intellectually but cannot apply them in real-time.",
+          "symptoms": "Personality change characterized by disinhibition, impulsivity, inappropriate social behavior, poor judgment, and reduced concern for consequences. Patients may make crude remarks, act impulsively on desires, violate social norms, and show inappropriate familiarity with strangers. They may develop intimate relations with strangers or make poor financial decisions. Emotional processing is often disrupted \u2014 patients may know the rules of social conduct intellectually but cannot apply them in real-time.",
           "brain_region": "Orbitofrontal cortex (the underside of the frontal lobe, above the eye sockets) and its connections to the amygdala, ventral striatum, and mediodorsal thalamus. This circuit is critical for integrating emotional information into decision-making and for learning from reward and punishment.",
-          "how_to_test": "Clinical observation and informant interview are essential — patients often lack insight into their own changes. Formal tests include the Iowa Gambling Task (tests ability to learn from reward/punishment patterns), social cognition tasks (recognizing emotions in faces and voices), and 'faux pas' recognition tasks (identifying social missteps in scenarios). The Frontal Behavioral Inventory or Neuropsychiatric Inventory can quantify behavioral changes."
+          "how_to_test": "Clinical observation and informant interview are essential \u2014 patients often lack insight into their own changes. Formal tests include the Iowa Gambling Task (tests ability to learn from reward/punishment patterns), social cognition tasks (recognizing emotions in faces and voices), and 'faux pas' recognition tasks (identifying social missteps in scenarios). The Frontal Behavioral Inventory or Neuropsychiatric Inventory can quantify behavioral changes."
         },
         {
           "name": "Medial Frontal/Anterior Cingulate Syndrome (Apathetic/Pseudodepressed)",
-          "symptoms": "Personality change characterized by profound apathy, lack of initiative, emotional blunting, and reduced spontaneous behavior and speech. The patient appears indifferent to previously important activities, relationships, and personal care. Unlike depression, patients typically do not report sadness or despair — they simply lack drive. In severe cases, this merges into abulia or akinetic mutism.",
-          "brain_region": "Medial frontal cortex (anterior cingulate gyrus and supplementary motor area) and its connections to the ventral striatum (nucleus accumbens) and mediodorsal thalamus — the 'motivation circuit.'",
+          "symptoms": "Personality change characterized by profound apathy, lack of initiative, emotional blunting, and reduced spontaneous behavior and speech. The patient appears indifferent to previously important activities, relationships, and personal care. Unlike depression, patients typically do not report sadness or despair \u2014 they simply lack drive. In severe cases, this merges into abulia or akinetic mutism.",
+          "brain_region": "Medial frontal cortex (anterior cingulate gyrus and supplementary motor area) and its connections to the ventral striatum (nucleus accumbens) and mediodorsal thalamus \u2014 the 'motivation circuit.'",
           "how_to_test": "Clinical observation of reduced initiative and spontaneous activity. The Apathy Evaluation Scale or Apathy Inventory can quantify severity. Key is distinguishing from depression by the absence of sadness, guilt, and vegetative symptoms."
         },
         {
-          "name": "Environmental Dependency Syndrome (Utilization Behavior / Imitation Behavior)",
-          "symptoms": "The patient's behavior is excessively driven by external stimuli in the environment rather than internal goals. Utilization behavior: the patient grasps and uses objects placed in front of them without being asked (e.g., picking up a comb and combing their hair, putting on glasses placed on a table). Imitation behavior: the patient spontaneously copies the examiner's gestures without being instructed to do so. Reflects a loss of personal autonomy — the patient is 'enslaved' to environmental cues.",
-          "brain_region": "Prefrontal cortex, particularly the inferior frontal regions. The intact prefrontal cortex normally inhibits automatic responses to environmental stimuli, maintaining personal autonomy.",
-          "how_to_test": "Place objects in front of the patient without instruction and observe whether they spontaneously use them. Perform gestures in front of the patient without asking them to imitate and observe whether they copy you. These behaviors are diagnostic when they occur without instruction and persist despite being told to stop."
-        },
-        {
           "name": "Behavioral Variant Frontotemporal Dementia (bvFTD)",
-          "symptoms": "A progressive neurodegenerative disorder that typically presents with personality and behavioral changes before significant cognitive decline. Early features include loss of empathy, disinhibition, apathy, loss of social awareness, compulsive or ritualistic behaviors, dietary changes (especially craving sweets), and emotional blunting. Loss of insight is prominent — patients are unaware of their behavioral changes. Later stages may include utilization behavior and language decline.",
+          "symptoms": "A progressive neurodegenerative disorder that typically presents with personality and behavioral changes before significant cognitive decline. Early features include loss of empathy, disinhibition, apathy, loss of social awareness, compulsive or ritualistic behaviors, dietary changes (especially craving sweets), and emotional blunting. Loss of insight is prominent \u2014 patients are unaware of their behavioral changes. Later stages may include utilization behavior and language decline.",
           "brain_region": "Frontal and anterior temporal lobe degeneration, often asymmetric. Orbitofrontal and anterior cingulate involvement produces the disinhibited and apathetic presentations, respectively. Anterior temporal involvement contributes to loss of empathy and social cognition.",
-          "how_to_test": "Clinical history from informants is critical — patients typically deny problems. Neuropsychological testing may be relatively normal early on (executive tests may be impaired). Neuroimaging (MRI showing frontal/temporal atrophy, FDG-PET showing frontal/temporal hypometabolism) supports the diagnosis. The Frontotemporal Dementia Rating Scale and diagnostic criteria require progressive behavioral change in at least 3 of 6 domains: disinhibition, apathy, loss of empathy, compulsive behavior, dietary changes, and executive/social cognition deficits."
+          "how_to_test": "Clinical history from informants is critical \u2014 patients typically deny problems. Neuropsychological testing may be relatively normal early on (executive tests may be impaired). Neuroimaging (MRI showing frontal/temporal atrophy, FDG-PET showing frontal/temporal hypometabolism) supports the diagnosis. The Frontotemporal Dementia Rating Scale and diagnostic criteria require progressive behavioral change in at least 3 of 6 domains: disinhibition, apathy, loss of empathy, compulsive behavior, dietary changes, and executive/social cognition deficits."
         }
       ]
     },
     {
       "category": "Disorders of Emotion",
       "source_chapter": "Chapter 18: Emotion",
-      "description": "Emotion (from Latin 'ex movere' — to move out) refers to coordinated brain-body responses to stimuli, including facial expressions, vocalizations, autonomic changes, and behaviors. Emotional feelings are the subjective, conscious experience of those responses. Disorders can affect moment-to-moment emotional expression ('affect') or sustained emotional states ('mood').",
+      "description": "Emotion (from Latin 'ex movere' \u2014 to move out) refers to coordinated brain-body responses to stimuli, including facial expressions, vocalizations, autonomic changes, and behaviors. Emotional feelings are the subjective, conscious experience of those responses. Disorders can affect moment-to-moment emotional expression ('affect') or sustained emotional states ('mood'). Note: affective lability (rapid unpredictable shifts in emotion), affective placidity (diminished emotional responsiveness), and witzelsucht (inappropriate jocularity) are symptoms that may accompany various neurological conditions rather than discrete disorders. Alexithymia (difficulty identifying and describing one's own emotions) is a dimensional trait/construct seen across many conditions.",
       "disorders": [
         {
           "name": "Pathological Laughing and Crying (Pseudobulbar Affect)",
           "symptoms": "Episodes of involuntary laughing, crying, or both that are exaggerated, uncontrollable, and often disconnected from the patient's actual emotional state. A patient may burst into uncontrollable crying without feeling sad, or laugh uncontrollably without feeling amused. Episodes are brief (seconds to minutes), stereotyped, and triggered by stimuli that would normally produce a much milder emotional response. Can be socially devastating. Also known as 'emotional incontinence' or 'involuntary emotional expression disorder.'",
           "brain_region": "Disruption of the pathways connecting the cerebral cortex (which normally modulates emotional expression) to the brainstem centers that execute emotional expression (periaqueductal gray, pontine nuclei, facial nerve nuclei). Can result from lesions at many levels: bilateral frontal/prefrontal cortex, internal capsule, basal ganglia, thalamus, cerebral peduncles, pons, or cerebellum. Common in stroke, ALS, multiple sclerosis, and traumatic brain injury.",
-          "how_to_test": "Clinical history and observation of involuntary emotional outbursts that are disproportionate to or incongruent with the patient's actual emotional state. The Center for Neurologic Study-Lability Scale (CNS-LS) is a validated self-report measure. Key is distinguishing from mood disorders — in pseudobulbar affect, the outbursts are brief and the baseline mood between episodes may be normal (euthymic), whereas in depression, the emotional disturbance is sustained."
-        },
-        {
-          "name": "Affective Lability",
-          "symptoms": "Rapid and unpredictable shifts in emotional expression and experience — the patient's affect (moment-to-moment emotional state) fluctuates quickly and excessively, often in response to minor stimuli. Distinguished from pathological laughing and crying by the fact that the emotional expression typically matches the emotional feeling (the patient actually feels the emotion they express), and from mood disorders by the rapid fluctuation rather than sustained shift.",
-          "brain_region": "Distributed networks involving prefrontal cortex, amygdala, and their connections. Can be seen in traumatic brain injury, bipolar disorder (even during euthymic periods), borderline personality disorder, and ADHD.",
-          "how_to_test": "Clinical observation and informant history documenting the rapid shifts. Rating scales such as the Affective Lability Scale can quantify the degree of emotional instability."
-        },
-        {
-          "name": "Affective Placidity",
-          "symptoms": "A partial or complete deficit of normal emotional responsiveness — the patient does not react emotionally even to stimuli with high evolutionary significance (threats, reward objects). Represents a loss of the normal capacity for emotional arousal. Distinct from apathy (which is primarily a motivational deficit) and from flat affect in depression (which typically involves subjective suffering).",
-          "brain_region": "Most commonly associated with bilateral amygdala damage or extensive temporal lobe lesions. A feature of Klüver-Bucy syndrome (bilateral temporal lobe damage causing placidity, hyperorality, visual agnosia, and altered sexual behavior). Also seen in conditions producing diminished motivation and apathy.",
-          "how_to_test": "Observe the patient's emotional reactivity to normally arousing stimuli during the clinical interview. Present photographs of emotionally salient scenes (threatening, disgusting, joyful) and assess the patient's autonomic and behavioral responses. Compare with ratings of subjective emotional experience."
-        },
-        {
-          "name": "Witzelsucht",
-          "symptoms": "A tendency to make inappropriate jokes, puns, or frivolous remarks, often at inappropriate times. The humor is typically shallow and repetitive, and the patient finds their own jokes much funnier than others do. Reflects a disorder of emotional regulation and social judgment rather than a true mood elevation.",
-          "brain_region": "Right frontal lobe, particularly the orbitofrontal cortex and its connections to limbic structures.",
-          "how_to_test": "Clinical observation of inappropriately jocular behavior. Informant history describing a change from the patient's premorbid personality. Distinguished from mania by the absence of other manic features (grandiosity, decreased need for sleep, pressured speech, increased goal-directed activity)."
-        },
-        {
-          "name": "Alexithymia",
-          "symptoms": "Difficulty identifying and describing one's own emotional feelings — the patient has emotions but cannot recognize, label, or articulate them. They may describe physical sensations (racing heart, tense muscles) without connecting these to an emotional state. Often accompanied by difficulty distinguishing between feelings and bodily sensations, a restricted imagination, and an externally oriented thinking style focused on concrete details rather than inner experience.",
-          "brain_region": "Disrupted connectivity between subcortical emotion-generating structures (amygdala, insula) and the prefrontal cortex (which supports conscious awareness and labeling of emotions). Associated with anterior cingulate cortex dysfunction. Seen in some patients after right hemisphere stroke, traumatic brain injury, and neurodevelopmental conditions.",
-          "how_to_test": "The Toronto Alexithymia Scale (TAS-20) is the most widely used self-report measure, with three subscales: difficulty identifying feelings, difficulty describing feelings to others, and externally oriented thinking. Clinical interview probing the patient's ability to describe their emotional experiences."
-        }
-      ]
-    },
-    {
-      "category": "Disorders of Personality",
-      "source_chapter": "Chapter 19: Personality",
-      "description": "Personality encompasses the enduring patterns of thinking, feeling, and behaving that characterize an individual. Brain lesions — particularly to frontal and temporal regions — can produce dramatic personality changes, as classically demonstrated by Phineas Gage.",
-      "disorders": [
-        {
-          "name": "Personality Change Due to a General Medical Condition",
-          "symptoms": "A persistent personality disturbance that represents a change from the individual's previous characteristic personality pattern and is judged to be due to a medical condition affecting the brain. Subtypes include: labile type (affective instability), disinhibited type (poor impulse control, inappropriate behavior), aggressive type (increased aggression), apathetic type (marked indifference and lack of initiative), paranoid type (suspiciousness), combined type, and other/unspecified. The change must be a departure from the patient's premorbid personality.",
-          "brain_region": "Varies by subtype. Disinhibited/labile type: orbitofrontal cortex and its connections. Apathetic type: medial frontal/anterior cingulate cortex. Aggressive type: amygdala, orbitofrontal cortex, and ventromedial prefrontal cortex. Paranoid type: variable, including temporal lobe and subcortical structures. Common causes include traumatic brain injury (especially frontal), stroke, brain tumors, neurodegenerative diseases (especially frontotemporal dementia), and infections.",
-          "how_to_test": "Detailed collateral history from family and close contacts documenting premorbid personality and the nature/timing of changes. Standardized instruments include the Iowa Rating Scales of Personality Change (comparison of premorbid vs. current personality rated by a reliable informant) and the Neuropsychiatric Inventory. Brain imaging to identify the responsible lesion. The personality change must not be better explained by a psychiatric disorder."
+          "how_to_test": "Clinical history and observation of involuntary emotional outbursts that are disproportionate to or incongruent with the patient's actual emotional state. The Center for Neurologic Study-Lability Scale (CNS-LS) is a validated self-report measure. Key is distinguishing from mood disorders \u2014 in pseudobulbar affect, the outbursts are brief and the baseline mood between episodes may be normal (euthymic), whereas in depression, the emotional disturbance is sustained."
         }
       ]
     },
@@ -491,14 +404,14 @@
         {
           "name": "Cerebellar Cognitive Affective Syndrome (CCAS / Schmahmann's Syndrome)",
           "symptoms": "A constellation of cognitive and emotional disturbances caused by cerebellar damage. Cognitive features include: impaired executive function (difficulty with planning, set-shifting, abstract reasoning, verbal fluency), visuospatial deficits, language difficulties (including agrammatism and impaired verbal fluency), and working memory impairment. Emotional/behavioral features include: personality changes with blunting or flattening of affect, or conversely disinhibition and impulsivity, emotional lability, and behaviors that may meet criteria for depression, anxiety, or even autism-spectrum features (especially with vermis involvement). Patients often report problems with multi-tasking, organizing thoughts, and sustaining concentration.",
-          "brain_region": "Posterior lobe of the cerebellum (lobules VI-IX) for cognitive deficits — this region connects to prefrontal and parietal cortices via the cerebello-thalamo-cortical circuit. Vermis (midline cerebellum) and paravermal regions for emotional/behavioral changes — these connect to limbic structures. Causes include cerebellar stroke, tumor resection, progressive cerebellar degeneration, and infections.",
+          "brain_region": "Posterior lobe of the cerebellum (lobules VI-IX) for cognitive deficits \u2014 this region connects to prefrontal and parietal cortices via the cerebello-thalamo-cortical circuit. Vermis (midline cerebellum) and paravermal regions for emotional/behavioral changes \u2014 these connect to limbic structures. Causes include cerebellar stroke, tumor resection, progressive cerebellar degeneration, and infections.",
           "how_to_test": "Comprehensive neuropsychological testing including: executive function (phonemic and semantic verbal fluency, Wisconsin Card Sorting Test), working memory (digit span), visuospatial function (Block Design), and language (Boston Naming Test). Behavioral assessment should screen for affective changes, personality changes, and psychotic features. The CCAS Scale is a bedside screening tool specifically designed for this syndrome."
         },
         {
           "name": "Posterior Fossa Syndrome",
-          "symptoms": "Occurs in children (and occasionally adults) after posterior fossa tumor resection, particularly when the surgical approach goes through the cerebellar vermis. Develops after a 1-2 day latent period of normal behavior following surgery. Characterized by mutism (which gradually recovers over months into dysarthria — slurred speech), buccal and lingual apraxia (difficulty coordinating mouth and tongue movements), and behavioral changes including regressive personality, apathy, emotional lability (rapid fluctuation between irritability with inconsolable crying and giggling with easy distractibility), and poverty of spontaneous movement.",
+          "symptoms": "Occurs in children (and occasionally adults) after posterior fossa tumor resection, particularly when the surgical approach goes through the cerebellar vermis. Develops after a 1-2 day latent period of normal behavior following surgery. Characterized by mutism (which gradually recovers over months into dysarthria \u2014 slurred speech), buccal and lingual apraxia (difficulty coordinating mouth and tongue movements), and behavioral changes including regressive personality, apathy, emotional lability (rapid fluctuation between irritability with inconsolable crying and giggling with easy distractibility), and poverty of spontaneous movement.",
           "brain_region": "Cerebellar vermis damage from the surgical approach, with disruption of the cerebellar-thalamo-cortical circuits. The vermis connects to limbic and paralimbic structures, explaining the emotional and behavioral features.",
-          "how_to_test": "Clinical observation in the postoperative period — the syndrome typically emerges 1-2 days after surgery. Speech assessment (mutism followed by dysarthria), behavioral assessment (emotional lability, regressive features), and neuropsychological testing (executive function, verbal fluency, memory) once the patient has recovered enough to be assessed. Longitudinal follow-up is important as deficits may be persistent."
+          "how_to_test": "Clinical observation in the postoperative period \u2014 the syndrome typically emerges 1-2 days after surgery. Speech assessment (mutism followed by dysarthria), behavioral assessment (emotional lability, regressive features), and neuropsychological testing (executive function, verbal fluency, memory) once the patient has recovered enough to be assessed. Longitudinal follow-up is important as deficits may be persistent."
         }
       ]
     },
@@ -510,18 +423,18 @@
         {
           "name": "Dorsolateral Prefrontal Circuit Dysfunction",
           "symptoms": "Impairment of executive functions: difficulty with planning, organizing behavior in time, shifting between tasks, generating strategies, and monitoring performance. Patients show poor working memory, reduced verbal and design fluency, and difficulty learning new procedures. They tend to be stimulus-bound (driven by environmental cues rather than internal goals) and may perseverate (repeat the same response or strategy even when it is no longer effective).",
-          "brain_region": "Dorsolateral prefrontal cortex (Brodmann areas 9, 46) and its circuit through the dorsolateral caudate nucleus, globus pallidus/substantia nigra, and mediodorsal and ventral anterior thalamic nuclei. Disruption anywhere in the circuit — including subcortical structures — can produce the same clinical picture.",
+          "brain_region": "Dorsolateral prefrontal cortex (Brodmann areas 9, 46) and its circuit through the dorsolateral caudate nucleus, globus pallidus/substantia nigra, and mediodorsal and ventral anterior thalamic nuclei. Disruption anywhere in the circuit \u2014 including subcortical structures \u2014 can produce the same clinical picture.",
           "how_to_test": "Wisconsin Card Sorting Test (set-shifting), Trail Making Test B (alternating sequences), verbal fluency (letter and category), Stroop Test (inhibition), Tower of London (planning). Bedside tests include Luria hand sequences and go/no-go tasks."
         },
         {
           "name": "Orbitofrontal Circuit Dysfunction",
           "symptoms": "Personality change with disinhibition, impulsivity, tactlessness, inappropriate social behavior, poor judgment, and emotional dysregulation. Patients may be irritable, labile, and unable to learn from social mistakes. They may show lack of empathy and fail to appreciate the consequences of their actions.",
           "brain_region": "Orbitofrontal cortex (Brodmann areas 10, 11, 47) and its circuit through the ventromedial caudate, globus pallidus/substantia nigra, and mediodorsal thalamic nuclei.",
-          "how_to_test": "Iowa Gambling Task (learning from reward/punishment), social cognition tasks, informant-based behavioral scales (Frontal Behavioral Inventory, Neuropsychiatric Inventory). Note that standard 'executive function' tests may be normal — orbitofrontal dysfunction primarily affects social behavior and emotional regulation, not cognitive flexibility."
+          "how_to_test": "Iowa Gambling Task (learning from reward/punishment), social cognition tasks, informant-based behavioral scales (Frontal Behavioral Inventory, Neuropsychiatric Inventory). Note that standard 'executive function' tests may be normal \u2014 orbitofrontal dysfunction primarily affects social behavior and emotional regulation, not cognitive flexibility."
         },
         {
           "name": "Anterior Cingulate Circuit Dysfunction",
-          "symptoms": "Apathy, loss of initiative, reduced spontaneous behavior and speech. The patient shows markedly diminished motivation — they can perform activities when prompted but will not initiate them. In severe cases, progresses to abulia (profound passivity) or akinetic mutism (a state of silent immobility despite apparent wakefulness).",
+          "symptoms": "Apathy, loss of initiative, reduced spontaneous behavior and speech. The patient shows markedly diminished motivation \u2014 they can perform activities when prompted but will not initiate them. In severe cases, progresses to abulia (profound passivity) or akinetic mutism (a state of silent immobility despite apparent wakefulness).",
           "brain_region": "Anterior cingulate cortex (Brodmann area 24) and its circuit through the nucleus accumbens (ventral striatum), ventral pallidum, and mediodorsal thalamus.",
           "how_to_test": "Clinical observation of reduced spontaneous behavior. Apathy rating scales. In akinetic mutism, the patient appears awake (eyes open, may track) but does not speak or move spontaneously. Must distinguish from depression (apathetic patients typically do not report sadness) and from catatonia."
         }

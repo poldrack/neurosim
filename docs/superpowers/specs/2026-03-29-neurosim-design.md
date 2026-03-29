@@ -16,6 +16,7 @@ Neuroscience and psychology students learning clinical reasoning through explora
   - Endpoint: `https://aiapi-prod.stanford.edu/v1/chat/completions`
   - OpenAI-compatible interface, Bearer token auth
   - Streaming via SSE supported
+- **Configuration:** python-dotenv loads API key and access code from `.env` file
 - **Package management:** uv
 - **No database** — all session state is in-memory
 - **No frontend build step**
@@ -24,7 +25,7 @@ Neuroscience and psychology students learning clinical reasoning through explora
 
 Shared passphrase gate to prevent unauthorized token usage:
 
-- Access code set via `NEUROSIM_ACCESS_CODE` environment variable
+- Access code set via `NEUROSIM_ACCESS_CODE` in `.env` file (loaded by python-dotenv)
 - On first visit, students see a simple password input screen
 - Correct passphrase sets a browser cookie containing an HMAC-based token (not the raw passphrase); subsequent visits skip the gate
 - Backend middleware validates the cookie token on all `/api/*` endpoints

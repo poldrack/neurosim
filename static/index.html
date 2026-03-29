@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NeuroSim</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Auth Screen -->
+    <div id="auth-screen" class="screen active">
+        <div class="container">
+            <h1>NeuroSim</h1>
+            <p class="subtitle">Brain Lesion Clinical Simulation</p>
+            <div class="auth-form">
+                <input type="password" id="access-code" placeholder="Enter access code" autocomplete="off">
+                <button id="auth-btn" onclick="authenticate()">Enter</button>
+            </div>
+            <p id="auth-error" class="error hidden"></p>
+        </div>
+    </div>
+
+    <!-- Home Screen -->
+    <div id="home-screen" class="screen">
+        <div class="container">
+            <h1>NeuroSim</h1>
+            <p class="subtitle">Practice diagnosing neurological disorders through conversation</p>
+            <div class="role-buttons">
+                <button class="role-btn" onclick="startSession('clinician')">
+                    <span class="role-icon">&#x1F9D1;&#x200D;&#x2695;&#xFE0F;</span>
+                    <span class="role-title">Play as Clinician</span>
+                    <span class="role-desc">Interview a patient to diagnose their disorder</span>
+                </button>
+                <button class="role-btn" onclick="startSession('patient')">
+                    <span class="role-icon">&#x1F9D1;</span>
+                    <span class="role-title">Play as Patient</span>
+                    <span class="role-desc">Portray a disorder while being interviewed</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chat Screen -->
+    <div id="chat-screen" class="screen">
+        <div class="chat-header">
+            <button class="header-btn" onclick="newSession()">New Session</button>
+            <div id="clinician-controls" class="hidden">
+                <button class="header-btn primary" onclick="openDiagnoseModal()">Submit Diagnosis</button>
+                <button class="header-btn danger" onclick="revealDiagnosis()">Show Diagnosis</button>
+            </div>
+        </div>
+
+        <!-- Disorder info panel (patient mode) -->
+        <div id="disorder-panel" class="hidden">
+            <button class="panel-toggle" onclick="toggleDisorderPanel()">
+                <span id="panel-toggle-text">Show Disorder Info</span>
+            </button>
+            <div id="disorder-details" class="panel-content hidden"></div>
+        </div>
+
+        <div id="chat-messages" class="chat-messages"></div>
+
+        <div class="chat-input-area">
+            <textarea id="chat-input" placeholder="Type your message..." rows="1"
+                      onkeydown="handleChatKeydown(event)"></textarea>
+            <button id="send-btn" onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <!-- Diagnose Modal -->
+    <div id="diagnose-modal" class="modal hidden">
+        <div class="modal-content">
+            <h3>Submit Your Diagnosis</h3>
+            <input type="text" id="diagnosis-input" placeholder="Enter your diagnosis...">
+            <div class="modal-buttons">
+                <button onclick="submitDiagnosis()">Submit</button>
+                <button class="secondary" onclick="closeDiagnoseModal()">Cancel</button>
+            </div>
+            <p id="diagnose-feedback" class="hidden"></p>
+        </div>
+    </div>
+
+    <!-- Result Screen -->
+    <div id="result-screen" class="screen">
+        <div class="container">
+            <div id="result-content"></div>
+            <button class="role-btn" onclick="newSession()">Try Again</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

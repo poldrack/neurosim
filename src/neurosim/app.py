@@ -98,7 +98,8 @@ def create_app() -> FastAPI:
         if not session.active:
             return JSONResponse(status_code=400, content={"detail": "Session is no longer active"})
 
-        session.add_message("user", req.message)
+        if req.message:
+            session.add_message("user", req.message)
 
         if session.role == "clinician":
             system_prompt = build_patient_prompt(session.disorder)

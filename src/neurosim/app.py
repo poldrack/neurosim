@@ -185,3 +185,10 @@ def _build_reveal_feedback(disorder: dict) -> str:
         f"Key symptoms include: {disorder['symptoms'][:200]}... "
         f"This is tested by: {disorder['how_to_test'][:200]}..."
     )
+
+
+def main():
+    import uvicorn
+
+    app = create_app()
+    uvicorn.run(app, host="0.0.0.0", port=8000)

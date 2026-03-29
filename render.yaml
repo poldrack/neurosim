@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: neurosim
+    runtime: python
+    buildCommand: pip install uv && uv sync --no-dev
+    startCommand: uv run neurosim
+    envVars:
+      - key: STANFORD_API_KEY
+        sync: false
+      - key: NEUROSIM_ACCESS_CODE
+        sync: false
+      - key: PYTHON_VERSION
+        value: "3.13.1"

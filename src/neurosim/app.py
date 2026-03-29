@@ -200,5 +200,6 @@ def _build_reveal_feedback(disorder: dict) -> str:
 def main():
     import uvicorn
 
+    port = int(os.environ.get("PORT", 8000))
     app = create_app()
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=port)
